@@ -10,4 +10,4 @@ I am a Ph.D. candidate in Economics at Georgetown University. My research lies a
 
 Before Georgetown, I worked as a Research Assistant in the World Bank’s Development Research Group. I hold an M.A. in Economics from Duke University.
 
-You can find my CV here.
+You can find my [**CV**](https://drive.google.com/file/d/1r-teq50qa436A-68XjMcysviCZgvx3ID/view?usp=sharing) here.
