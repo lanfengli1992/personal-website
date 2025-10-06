@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Teaching"
 permalink: /
 author_profile: true
