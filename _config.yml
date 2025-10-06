@@ -7,6 +7,9 @@ description: "Ph.D. Candidate in Economics, Georgetown University"
 url: https://lanfengli1992.github.io
 baseurl: "/personal-website"
 
+url: https://lanfengli1992.github.io
+baseurl: "/personal-website"
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
@@ -22,17 +25,6 @@ collections:
     output: true
     permalink: /:path/
 
-
-
-markdown: kramdown
-highlighter: rouge
-
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-sitemap
 
 # Sidebar info (example)
 author:
