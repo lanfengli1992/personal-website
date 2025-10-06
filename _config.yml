@@ -1,13 +1,29 @@
-# AcademicPages config
 title: "Lanfeng Li"
 name: "Lanfeng Li"
 description: "Ph.D. Candidate in Economics, Georgetown University"
-baseurl: "/personal-website" # repo-name if used as project site
-url: https://lanfengli.github.io      # https://<username>.github.io for user site
 
-theme: academicpages
+# IMPORTANT: project site settings
+url: https://lanfengli1992.github.io
+baseurl: "/personal-website"
 
-# Sidebar info
+# REMOVE this (it's wrong and causes your error):
+# theme: academicpages
+
+# Use the correct remote theme (what academicpages is built on)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-sitemap
+
+# Sidebar info (example)
 author:
   name: "Lanfeng Li"
   avatar: "images/profile.jpg"
@@ -22,27 +38,3 @@ author:
       url: "https://www.linkedin.com/in/lanfeng-li-07704454/"
       icon: "fab fa-linkedin"
 
-# Socials (optional)
-email: "ll1077@georgetown.edu"
-linkedin_username: "lanfeng-li-07704454"
-
-# Collections
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
-
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
-
-# Build settings for GitHub Pages actions
-sass:
-  style: compressed
