@@ -18,6 +18,18 @@ plugins:
   - jekyll-sitemap
 
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // keep your skin
+@import "minimal-mistakes";
+
+// Make the avatar square and nicely cropped
+.page__sidebar .author__avatar img {
+  width: 180px;   // adjust to taste
+  height: 180px;  // keep equal to width for a square frame
+  object-fit: cover;
+  border-radius: 6px; // change to 0 for perfectly square; increase for more rounded
+}
+
+
 # Sidebar info (example)
 author:
   name: "Lanfeng Li"
