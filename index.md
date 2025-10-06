@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: single
 title: "Home"
 permalink: /
 author_profile: true
+toc: false
 ---
 
 <!-- Outline bar at the top -->
