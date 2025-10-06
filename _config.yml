@@ -1,3 +1,5 @@
+locale: "en-US"
+site_theme: "default" # Currently available options are "default", "air"
 title: "Lanfeng Li"
 name: "Lanfeng Li"
 description: "Ph.D. Candidate in Economics, Georgetown University"
@@ -5,7 +7,7 @@ description: "Ph.D. Candidate in Economics, Georgetown University"
 # IMPORTANT: project site settings
 url: https://lanfengli1992.github.io
 baseurl: "/personal-website"
-
+repository: "academicpages/academicpages.github.io"
 # REMOVE this (it's wrong and causes your error):
 # theme: academicpages
 
