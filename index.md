@@ -7,7 +7,7 @@ toc: false
 ---
 
 <!-- Outline bar at the top -->
-**On this page:** [About](#about-me) · [Research](#research) · [Teaching](#teaching)
+[About](#about-me) · [Research](#research) · [Teaching](#teaching)
 
 
 ### About Me
