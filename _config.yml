@@ -1,0 +1,48 @@
+# AcademicPages config
+title: "Lanfeng Li"
+name: "Lanfeng Li"
+description: "Ph.D. Candidate in Economics, Georgetown University"
+baseurl: "" # repo-name if used as project site
+url: ""      # https://<username>.github.io for user site
+
+theme: academicpages
+
+# Sidebar info
+author:
+  name: "Lanfeng Li"
+  avatar: "images/profile.jpg"
+  bio: "Ph.D. Candidate in Economics, Georgetown University"
+  location: "Arlington, VA"
+  email: "ll1077@georgetown.edu"
+  links:
+    - label: "Email"
+      url: "mailto:ll1077@georgetown.edu"
+      icon: "fas fa-envelope"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/lanfeng-li-07704454/"
+      icon: "fab fa-linkedin"
+
+# Socials (optional)
+email: "ll1077@georgetown.edu"
+linkedin_username: "lanfeng-li-07704454"
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+# Build settings for GitHub Pages actions
+sass:
+  style: compressed
