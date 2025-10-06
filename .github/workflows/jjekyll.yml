@@ -1,4 +1,4 @@
-name: Build and Deploy Jekyll with GitHub Pages
+name: Build & Deploy (Jekyll → GitHub Pages)
 
 on:
   push:
@@ -12,28 +12,22 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-ruby@v1
+      - uses: actions/configure-pages@v5
+      # Official Jekyll build action maintained by GitHub
+      - uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: '3.1'
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle config set path 'vendor/bundle'
-          bundle install || bundle init && bundle add github-pages jekyll jekyll-feed jekyll-seo-tag jemoji && bundle install
-      - name: Build site
-        run: |
-          bundle exec jekyll build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+          source: ./
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: ./_site
 
   deploy:
     needs: build
@@ -42,7 +36,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
-
