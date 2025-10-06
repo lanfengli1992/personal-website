@@ -3,7 +3,7 @@ title: "Lanfeng Li"
 name: "Lanfeng Li"
 description: "Ph.D. Candidate in Economics, Georgetown University"
 baseurl: "" # repo-name if used as project site
-url: ""      # https://<username>.github.io for user site
+url: "https://lanfengli.github.io"      # https://<username>.github.io for user site
 
 theme: academicpages
 
