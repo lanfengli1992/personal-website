@@ -13,6 +13,12 @@ baseurl: "/personal-website"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+
 markdown: kramdown
 highlighter: rouge
 
