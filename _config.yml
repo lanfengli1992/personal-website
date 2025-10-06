@@ -4,21 +4,24 @@ title: "Lanfeng Li"
 name: "Lanfeng Li"
 description: "Ph.D. Candidate in Economics, Georgetown University"
 
-# IMPORTANT: project site settings
 url: https://lanfengli1992.github.io
 baseurl: "/personal-website"
-repository: "academicpages/academicpages.github.io"
-# REMOVE this (it's wrong and causes your error):
-# theme: academicpages
 
-# Use the correct remote theme (what academicpages is built on)
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-sitemap
 
 collections:
   pages:
     output: true
     permalink: /:path/
+
 
 
 markdown: kramdown
