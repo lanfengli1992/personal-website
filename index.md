@@ -25,6 +25,10 @@ You can find my [**CV**](https://drive.google.com/file/d/1r-teq50qa436A-68XjMcys
 
 **Abstract:** In economies with weak social protection, pension policy can shift old-age income risk onto spouses and widen gender gaps. We show this in rural China: when husbands reach pension eligibility, wives increase labor supply, a reversal of the joint-retirement pattern documented in previous literature. Leveraging a regression discontinuity at age 60, we find that wives' labor force participation (LFP) \textit{increases} when their husbands reach pension eligibility age. By contrast, husbands' LFP shows no robust response to wives' eligibility. We provide some evidence that the mechanism might be rooted in the system's design. The husband's pension eligibility coincides with his mandatory exclusion from formal employment, producing a sharp earnings loss that pensions only partially replace. Some of them, displaced from non-agricultural work, switched to agricultural work. Meanwhile, wives act as insurers by expanding agricultural work. Our results highlight how low replacement rates and rigid age rules induce intra-household labor reallocation to absorb income shocks, with gendered consequences. They inform pension design in developing economies where employment barriers at eligibility may unintentionally amplify disparities in couples' labor supply.
 
+**How Separate Pension Eligibility Affects Family Life: Evidence from Urban China** (with Siming Ye)
+
+**Housing Privatization, Marry Up and Wealth Redistribution** 
+
 ### Teaching
 - Undergraduate Econ Principles Micro, ECON 1001 — Fall 2025  
 - Undergraduate Intro to Econometrics, ECON 2120 — Spring 2025  
