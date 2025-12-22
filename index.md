@@ -13,7 +13,7 @@ toc: false
 ### About Me
 I am a Ph.D. candidate in [**Economics**](https://econ.georgetown.edu/academics/phd/phd-students/current-job-market/) at [**Georgetown University**](https://www.georgetown.edu/). My research lies at the intersection of development and labor economics, examining how couples adjust labor supply in response to pension eligibility under weak social safety nets, with evidence from rural pension enrollees in China.
 
-Before my Ph.D., I worked at the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research) for 3 years and later in the Poverty, Energy Global Practices, and Operations Policy & Country Services at the World Bank Group. I hold an M.A. in Economics from [**Duke University**](https://duke.edu/) and a B.A. in Actuarial Science from the [**Central University of Finance and Economics**](https://en.cufe.edu.cn/).
+Before and during my Ph.D., I worked at the World Bank Group for six years across 4 divisions, from the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research), Poverty, Energy Global Practices, to Operations Policy & Country Services. I hold an M.A. in Economics from [**Duke University**](https://duke.edu/) and a B.A. in Actuarial Science from the [**Central University of Finance and Economics**](https://en.cufe.edu.cn/).
 
 You can find my [**CV**](https://drive.google.com/file/d/1r-teq50qa436A-68XjMcysviCZgvx3ID/view?usp=sharing) here.
 
