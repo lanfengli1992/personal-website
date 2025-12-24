@@ -13,7 +13,9 @@ toc: false
 ### About Me
 I am a Ph.D. candidate in [**Economics**](https://econ.georgetown.edu/academics/phd/phd-students/current-job-market/) at [**Georgetown University**](https://www.georgetown.edu/). My research lies at the intersection of development and labor economics, examining how couples adjust labor supply in response to pension eligibility under weak social safety nets, with evidence from rural pension enrollees in China.
 
-Before and during my Ph.D., I worked at the World Bank Group for 6 years across 4 divisions, from the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research), Poverty, Energy Global Practices, to Operations Policy & Country Services. I hold an M.A. in Economics from [**Duke University**](https://duke.edu/) and a B.A. in Actuarial Science from the [**Central University of Finance and Economics**](https://en.cufe.edu.cn/).
+Before and during my Ph.D., I worked at the World Bank Group for 6 years across 4 divisions, from the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research), Poverty, Energy Global Practices, to Operations Policy & Country Services. I helped build a structural model in Matlab to simulate and estimate household responses to block pricing. I supported senior management by transforming operational data into decision-ready insights in Stata. I also led data harmonization of the MTF global energy-access surveys in R and built Python scrapers to extract conflict-relevant text for visualizations for DRC/Burundi. 
+
+I hold an M.A. in Economics from [**Duke University**](https://duke.edu/) and a B.A. in Actuarial Science from the [**Central University of Finance and Economics**](https://en.cufe.edu.cn/).
 
 You can find my [**CV**](https://drive.google.com/file/d/1r-teq50qa436A-68XjMcysviCZgvx3ID/view?usp=sharing) here.
 
@@ -28,6 +30,8 @@ You can find my [**CV**](https://drive.google.com/file/d/1r-teq50qa436A-68XjMcys
 **How Separate Pension Eligibility Affects Family Life: Evidence from Urban China** (with Siming Ye)
 
 **Housing Privatization, Marry Up and Wealth Redistribution** 
+
+**Weathering the Shock: Liquidity Constraints and the Enrollment of Pension Program in Rural China**
 
 ### Teaching
 - Undergraduate Econ Principles Micro, ECON 1001 — Fall 2025  
