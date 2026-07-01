@@ -37,7 +37,7 @@ You can find my latest [**CV**](https://drive.google.com/file/d/1egiEzSrTcMp-nwY
 
 **Weathering the Shock: Liquidity Constraints and the Enrollment of Pension Program in Rural China**
 
-**Demand Forecasting and Pricing Decisions under Constraints: The Design of Pension Contribution**
+**Demand Forecasting and Pricing Strategy with Spillover Effects in the Design of Pension Contribution**
 
 
 ### Teaching
