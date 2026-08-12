@@ -11,7 +11,9 @@ toc: false
 
 
 ### About Me
-I am a Ph.D. candidate in [**Economics**](https://econ.georgetown.edu/academics/phd/phd-students/current-job-market/) at [**Georgetown University**](https://www.georgetown.edu/). My research lies at the intersection of development and labor economics, examining how couples adjust labor supply in response to pension eligibility under weak social safety nets, with evidence from rural pension enrollees in China.
+I am a Ph.D. candidate in [**Economics**](https://econ.georgetown.edu/academics/phd/phd-students/current-job-market/) at [**Georgetown University**](https://www.georgetown.edu/). My research lies at the intersection of development and labor economics, examining how households respond to policy incentives and economic constraints, with a particular focus on couples’ labor supply responses to pension eligibility in rural China.
+
+Most recently, I worked as a Data Science Intern with the Decision Science + Integration team at The Walt Disney Company, where I used experimental and large-scale sales data in Snowflake with SQL and Python to support ticket pricing, demand forecasting and revenue management for Disneyland Paris. I also developed and validated machine learning forecasting models and used LLM-assisted workflows to improve analytical efficiency and decision support.
 
 Before and during my Ph.D., I worked at the World Bank Group for 6 years across 4 divisions, from the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research), Poverty, Energy Global Practices, to Operations Policy & Country Services. I helped build a structural model in Matlab to simulate and estimate household responses to block pricing. I supported senior management by transforming operational data into decision-ready insights in Stata. I also led data harmonization of the MTF global energy-access surveys in R and built Python scrapers to extract conflict-relevant text for visualizations for DRC/Burundi. 
 
