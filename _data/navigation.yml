@@ -1,9 +1,7 @@
-main:
-  - title: "About"
-    url: /personal-website/#about
-  - title: "Experience"
-    url: /personal-website/#experience
-  - title: "Research"
-    url: /personal-website/#research
-  - title: "Teaching"
-    url: /personal-website/#teaching
+# Top nav
+- title: "Research"
+  url: /#research
+- title: "Teaching"
+  url: /#teaching
+
+

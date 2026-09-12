@@ -1,10 +1,11 @@
 locale: "en-US"
+site_theme: "default" # Currently available options are "default", "air"
 title: "Lanfeng Li"
 name: "Lanfeng Li"
-description: "Economist and data scientist specializing in causal inference, forecasting, and applied research."
+description: "Ph.D. Candidate in Economics, Georgetown University"
+
 url: https://lanfengli1992.github.io
 baseurl: "/personal-website"
-repository: "lanfengli1992/personal-website"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
@@ -16,10 +17,13 @@ plugins:
   - jemoji
   - jekyll-sitemap
 
+
+
+# Sidebar info (example)
 author:
   name: "Lanfeng Li"
   avatar: "images/profile.jpg"
-  bio: "Economist · Data Scientist · Ph.D. Candidate at Georgetown University"
+  bio: "Ph.D. Candidate in Economics, Georgetown University"
   location: "New York, NY"
   links:
     - label: "Email"
@@ -28,6 +32,4 @@ author:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/lanfeng-li-07704454/"
       icon: "fab fa-linkedin"
-    - label: "GitHub"
-      url: "https://github.com/lanfengli1992"
-      icon: "fab fa-github"
+
