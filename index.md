@@ -11,11 +11,11 @@ toc: false
 
 
 ### About Me
-I am a Ph.D. candidate in [**Economics**](https://econ.georgetown.edu/academics/phd/phd-students/current-job-market/) at [**Georgetown University**](https://www.georgetown.edu/). My research lies at the intersection of development and labor economics, examining how households respond to policy incentives and economic constraints, with a particular focus on couples’ labor supply responses to pension eligibility in rural China.
+I am a Ph.D. candidate in [**Economics**](https://econ.georgetown.edu/academics/phd/phd-students/current-job-market/) at [**Georgetown University**](https://www.georgetown.edu/). My work combines causal inference, economic modeling, and data science to understand how people respond to policies and incentives. My research lies at the intersection of development and labor economics, with a particular focus on how pension eligibility shapes couples’ labor supply decisions in rural China.
 
-Most recently, I worked as a Data Science Intern with the Decision Science + Integration team at The Walt Disney Company, where I used experimental and large-scale sales data in Snowflake with SQL and Python to support ticket pricing, demand forecasting and revenue management for Disneyland Paris. I also developed and validated machine learning forecasting models and used LLM-assisted workflows to improve analytical efficiency and decision support.
+Most recently, I worked as a Data Science Intern with the Decision Science + Integration team at The Walt Disney Company, supporting ticket pricing, demand forecasting, and revenue management for Disneyland Paris. Using SQL and Python, I analyzed experimental and large-scale sales data in Snowflake to study demand and pricing responses. I also developed and validated machine learning models for forecasting and integrated LLM-assisted workflows to streamline analysis and support business decisions.
 
-Before and during my Ph.D., I worked at the World Bank Group for 6 years across 4 divisions, from the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research), Poverty, Energy Global Practices, to Operations Policy & Country Services. I helped build a structural model in Matlab to simulate and estimate household responses to block pricing. I supported senior management by transforming operational data into decision-ready insights in Stata. I also led data harmonization of the MTF global energy-access surveys in R and built Python scrapers to extract conflict-relevant text for visualizations for DRC/Burundi. 
+Before and during my Ph.D., I spent six years at the World Bank Group, working across the [**Development Research Group**](https://www.worldbank.org/en/about/unit/unit-dec/research), the Poverty & Equity and Energy & Extractives Global Practices, and Operations Policy & Country Services. My work connected rigorous analysis with policy and operational questions: I helped develop a structural model in MATLAB to estimate household responses to electricity block pricing, translated operational data into insights for senior management using Stata, and led the harmonization of Multi-Tier Framework (MTF) energy-access surveys in R. I also built Python scraping tools to collect and visualize conflict-related information for the Democratic Republic of Congo and Burundi.
 
 I hold an M.A. in Economics from [**Duke University**](https://duke.edu/) and a B.A. in Actuarial Science from the [**Central University of Finance and Economics**](https://en.cufe.edu.cn/).
 
@@ -37,9 +37,9 @@ You can find my latest [**CV**](https://drive.google.com/file/d/1egiEzSrTcMp-nwY
 
 **Abstract:** Using data from a price and information experiment carried out among residential electricity customers in urban Vietnam, all of whom have air conditioners, we estimate a dynamic structural model of daily electricity demand over the billing cycle under block-pricing.  While consumers are assumed to be forward-looking, to know the nonlinear price schedule, and to rationally forecast future changes in ambient temperature, they can be inattentive to past electricity usage and naive about their inattention.  A randomly assigned SMS message providing information on cumulative usage exogenously causes consumers to pay attention (if only briefly) and thereby make closer-to-optimal decisions.
 
-**Weathering the Shock: Liquidity Constraints and the Enrollment of Pension Program in Rural China**
+**Weathering the Shock]{Weathering the Shock: Liquidity Constraints and the Enrollment of Pension Program in Rural China**
 
-**Demand Forecasting and Pricing Strategy with Spillover Effects in the Design of Pension Contribution**
+
 
 
 ### Teaching
