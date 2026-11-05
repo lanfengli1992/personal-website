@@ -19,7 +19,7 @@ Before and during my Ph.D., I spent six years at the World Bank Group, working a
 
 I hold an M.A. in Economics from [**Duke University**](https://duke.edu/) and a B.A. in Actuarial Science from the [**Central University of Finance and Economics**](https://en.cufe.edu.cn/).
 
-You can find my latest [**CV**](https://drive.google.com/file/d/1egiEzSrTcMp-nwY5rDCR5-KVfpA9SKqn/view?usp=sharing) here.
+You can find my latest [**CV**](https://drive.google.com/file/d/1TlS6RAxrtJysDqlQ4scvT0dseUWqs1Pr/view?usp=sharing) here.
 
 ### Research
 
